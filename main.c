@@ -365,7 +365,6 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-		e_stop_state = 0;
 		e_stop_state = HAL_GPIO_ReadPin(GPIOC,GPIO_PIN_3); 
 		check_format = checkdata(uart_rx);
 		send_heartbeat(&hcan1,&motor1_heartbeat);
