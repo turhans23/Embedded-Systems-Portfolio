@@ -18,7 +18,7 @@ IGVC (Intelligent Ground Vehicle Competition) ve TEKNOFEST İKA (İnsansız Kara
     * IMU 
  
 
-## Öne Çıkan Modüller
+## Öne Çıkan Çalışmalar
 Bu repoda aşağıdaki modüllerin implementasyonları bulunmaktadır:
 
 1.  **CAN Bus Motor Kontrolü:**
