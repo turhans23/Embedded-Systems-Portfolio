@@ -1,8 +1,4 @@
-# Embedded-Systems-Portfolio
-Embedded systems portfolio showcasing STM32 drivers and motor control algorithms developed for the Rake Autonomous Vehicle Project. Prepared for internship applications.
-
-# Embedded Systems Portfolio - Rake Autonomous Vehicle Project
-
+# Gömülü Sistemler Portfolyosu
 Bu repository, **İTÜ Rake** bünyesinde geliştirdiğimiz otonom araç projesi için **Elektronik Kaptanı** olarak yazdığım gömülü sistem sürücülerini, motor kontrol algoritmalarını ve haberleşme protokollerini içermektedir.
 
 ## Proje Hakkında
